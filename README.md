@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-[Live Site](https://meelix.github.io/frontendmentor-advice-generator-app/)
+[Live Site](https://meelix.github.io/frontendmentor-rating-component/)
 
 ## My process
 
